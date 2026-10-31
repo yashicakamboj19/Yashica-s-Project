@@ -1,0 +1,6 @@
+{
+  "name": "Chore Arcade",
+  "description": "A gamified hackathon productivity tool merging fast-paced arcade action with simulated digital chore automation and live console streams.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
